@@ -1,0 +1,26 @@
+ul {
+    text-align: center;
+    color: rgb(218, 113, 52);
+    list-style: none;    
+}
+ul li{
+     display: inline;
+     position: relative;
+     padding: 24px;
+
+} 
+ h1 {
+     color: red;
+     text-align: center;
+ }
+
+ p {
+     margin-left: 0px;
+     font-size: 18px;
+ }
+
+ h2 {
+    text-align: left;
+    color: blue;        
+ }
+
